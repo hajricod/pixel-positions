@@ -9,8 +9,8 @@
         <p class="text-sm text-gray-400 mt-auto">Full time from $70,000</p>
     </div>
     <div>
-        <x-tag>Tag</x-tag>
-        <x-tag>Tag</x-tag>
-        <x-tag>Tag</x-tag>
+        <x-tag size="small">Tag</x-tag>
+        <x-tag size="small">Tag</x-tag>
+        <x-tag size="small">Tag</x-tag>
     </div>
 </x-panel>
